@@ -1,6 +1,7 @@
 # ☸️ Task 2: Multi-Tier Website on Kubernetes
 
-📖 This task demonstrates how to deploy a **multi-tier WordPress website** on Kubernetes.
+📖 This project demonstrates how to deploy a **multi-tier WordPress application** with **MySQL as the database backend** on Kubernetes using **Minikube**.  
+It showcases the use of **Deployments, Services, and Persistent Volumes** to build a real-world web application stack.
 
 ---
 
