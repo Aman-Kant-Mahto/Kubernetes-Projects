@@ -1,6 +1,8 @@
 # ☸️ Task 3: Deploying Spring Boot & Quarkus Microservices on Kubernetes
 
-📖 This task explores how to run **Spring Boot, Quarkus, and microservices** on Kubernetes.
+
+📖 This project demonstrates how to **deploy Spring Boot and Quarkus microservices** on a Kubernetes cluster using **Minikube**.  
+It covers building containerized microservices, deploying them with **Kubernetes Deployments & Services**, and scaling them with **Horizontal Pod Autoscaling (HPA).**
 
 ---
 
